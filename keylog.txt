@@ -1,0 +1,65 @@
+
+
+2026-03-08 15:24:50,841: Special key pressed: Key.shift
+2026-03-08 15:24:51,227: Key pressed: T
+2026-03-08 15:24:53,175: Key pressed: h
+2026-03-08 15:24:53,658: Key pressed: i
+2026-03-08 15:24:53,854: Key pressed: s
+2026-03-08 15:24:54,153: Special key pressed: Key.space
+2026-03-08 15:24:54,676: Key pressed: i
+2026-03-08 15:24:54,858: Key pressed: s
+2026-03-08 15:24:55,037: Special key pressed: Key.space
+2026-03-08 15:24:57,548: Key pressed: a
+2026-03-08 15:24:57,770: Special key pressed: Key.space
+2026-03-08 15:24:58,595: Key pressed: k
+2026-03-08 15:24:59,093: Key pressed: e
+2026-03-08 15:25:00,905: Key pressed: y
+2026-03-08 15:25:01,805: Key pressed: l
+2026-03-08 15:25:02,134: Key pressed: o
+2026-03-08 15:25:03,151: Key pressed: g
+2026-03-08 15:25:03,395: Key pressed: g
+2026-03-08 15:25:04,063: Key pressed: e
+2026-03-08 15:25:04,308: Key pressed: r
+2026-03-08 15:25:04,600: Special key pressed: Key.space
+2026-03-08 15:25:05,020: Key pressed: p
+2026-03-08 15:25:06,583: Key pressed: r
+2026-03-08 15:25:06,898: Key pressed: o
+2026-03-08 15:25:07,478: Key pressed: j
+2026-03-08 15:25:07,635: Key pressed: e
+2026-03-08 15:25:07,994: Key pressed: c
+2026-03-08 15:25:08,409: Key pressed: t
+2026-03-08 15:25:08,744: Special key pressed: Key.space
+2026-03-08 15:25:11,977: Key pressed: t
+2026-03-08 15:25:12,220: Key pressed: o
+2026-03-08 15:25:12,449: Special key pressed: Key.space
+2026-03-08 15:25:12,788: Key pressed: c
+2026-03-08 15:25:14,599: Key pressed: a
+2026-03-08 15:25:15,234: Key pressed: p
+2026-03-08 15:25:15,906: Key pressed: t
+2026-03-08 15:25:16,189: Key pressed: u
+2026-03-08 15:25:16,465: Key pressed: r
+2026-03-08 15:25:16,657: Key pressed: e
+2026-03-08 15:25:16,894: Special key pressed: Key.space
+2026-03-08 15:25:42,072: Special key pressed: Key.enter
+2026-03-08 15:25:46,853: Special key pressed: Key.cmd
+2026-03-08 15:25:47,378: Special key pressed: Key.cmd
+2026-03-08 15:25:47,407: Key pressed: g
+2026-03-08 15:26:18,093: Special key pressed: Key.cmd
+2026-03-08 15:26:18,612: Special key pressed: Key.cmd
+2026-03-08 15:26:18,647: Special key pressed: Key.cmd
+2026-03-08 15:26:18,681: Special key pressed: Key.cmd
+2026-03-08 15:26:18,714: Special key pressed: Key.cmd
+2026-03-08 15:26:18,750: Special key pressed: Key.cmd
+2026-03-08 15:26:18,781: Special key pressed: Key.cmd
+2026-03-08 15:26:18,815: Special key pressed: Key.cmd
+2026-03-08 15:26:18,849: Special key pressed: Key.cmd
+2026-03-08 15:26:18,885: Special key pressed: Key.cmd
+2026-03-08 15:26:18,918: Special key pressed: Key.cmd
+2026-03-08 15:26:18,951: Special key pressed: Key.cmd
+2026-03-08 15:26:18,986: Special key pressed: Key.cmd
+2026-03-08 15:26:19,017: Special key pressed: Key.cmd
+2026-03-08 15:26:19,051: Special key pressed: Key.cmd
+2026-03-08 15:26:19,068: Key pressed: g
+2026-03-08 15:26:29,652: Special key pressed: Key.delete
+2026-03-08 15:26:32,654: Special key pressed: Key.delete
+2026-03-08 15:26:50,000: Special key pressed: Key.backspace
